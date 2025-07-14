@@ -71,8 +71,7 @@ This Power BI dashboard is a valuable decision-support tool for executives, anal
 ---
 ## 🔗 Live Dashboard
 
-👉 [View Shopify Sales Dashboard](h)  
-
+👉 [View Shopify Sales Dashboard](https://github.com/Yaqub-123/shopify-store-sales--dashboard/blob/main/Shopify_Store_Dashboard.png)  
 
 
 > 📌 **Note**: The dataset used is intended solely for analysis and demonstration purposes.
