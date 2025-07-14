@@ -1,79 +1,80 @@
 # Shopify Store | Sales & Customer Insights Dashboard
 
-This project showcases a Power BI dashboard built to analyze Shopify store sales data. It provides clear insights into transaction performance, customer behavior, and long-term value generation to support data-driven decision-making.
+This project showcases a Power BI dashboard built to analyze Shopify store sales data. It delivers insights into transaction performance, customer behavior, and long-term customer value, supporting data-driven decision-making.
 
 ---
 
 ## 📊 Project Objective
 
 To design a dynamic and interactive dashboard that enables stakeholders to:
--Tracks Net Sales, Average Order Value, and Total Quantity Sold
--Monitors sales performance by time, product type, location, and payment gateway
--Enables business stakeholders to identify high-performing areas and customer trends
+
+- Track Net Sales, Average Order Value, and Total Quantity Sold  
+- Monitor sales performance by time, product type, location, and payment gateway  
+- Identify high-performing regions and customer behavior patterns  
 
 ---
 
 ## 📁 Dataset Overview
 
 The dataset includes Shopify order records with the following key columns:
-- **Order Number, Invoice Date**
-- **Customer ID, Billing Location**
-- **Product Type, Quantity, Subtotal, Total Price**
-- **Payment Gateway, Currency**
-- **City, Province, Zip Code**
 
+- Order Number, Invoice Date  
+- Customer ID, Billing Location  
+- Product Type, Quantity, Subtotal, Total Price  
+- Payment Gateway, Currency  
+- City, Province, Zip Code  
 
 ---
 
-
 ## 🛠️ Built With
 
-- **Power BI**
-  - **Power Query** – For data cleaning and transformation
-  - **DAX** – For custom KPIs and calculated measures
-  - **Dynamic Visuals** – Interactive elements driven by user selections
+**Power BI**  
+- **Power Query** – For data cleaning and transformation  
+- **DAX** – For custom KPIs and calculated metrics  
+- **Dynamic Visuals** – Powered by slicers and user interaction  
 
-- **Features & Interactivity**
-  - **Slicers** for payment gateway, region (province/city), and sales metric filtering
-  - **Drill-through** capability to view detailed transaction-level data
+**Features & Interactivity**  
+- Slicers for payment gateway, region (province/city), and sales metrics  
+- Drill-through capability to explore transaction-level data  
 
-- **Visual Elements**
-  - **KPI Cards** – Net Sales, Total Quantity, AOV, LTV, etc.
-  - **Maps** – Filled maps
-  - **Trend Lines** – Area and line charts showing daily and hourly trends
-  - **Pie Charts** – For gateway usage and product category distribution
-  - **Bar Graphs** – For top-performing cities, products, and metrics
- 
-## 📈 Key Business Insights Uncovered:
+**Visual Elements**  
+- KPI Cards – Net Sales, Total Quantity, Total Customers, Net Avg Order Value, Single Order Customers, Repeat Customers, Lifetime Value (LTV), Repeat Rate, Purchase Frequency
+- Maps – Filled and bubble maps 
+- Trend Lines – Daily and hourly sales patterns  
+- Pie Charts – Payment method and product type analysis  
+- Bar Graphs – Top-performing cities, products, and customer metrics  
 
-This Shopify Store sales dashboard uncovered actionable insights across customer behavior, product performance, and revenue trends:
+---
 
-- 💰 **$4.18M+ in Net Sales** generated from **7,534 total orders**
-- 👥 **4,431 unique customers**, with a strong **46% repeat purchase rate**, indicating good customer retention
-- 📦 **Top-selling product**: *Running Shoes*, driving over **$1.5M in revenue**
-- 🕒 **Peak order activity** occurs between **11 AM to 4 PM**, showing highest customer engagement during midday
-- 📅 **Monthly sales peaked at $683K** in **Month 24**, reflecting potential seasonal demand
-- 🗺️ **Top contributing regions**: *Washington, Houston, and New York City*
-- 🌎 **High-revenue states** include *Texas, California, and Florida*
-- 👕 **Clothing** and **Electronics** are the most purchased product categories
-- 💳 **Shopify Payments** is the preferred method, used in **58% of transactions**, followed by PayPal and Gift Cards
+## 📈 Business Insights & Outcomes
+
+This Shopify dashboard uncovered critical insights in sales and customer behavior:
+
+- 💰 **$4.18M+ Net Sales** from **7,534 orders**  
+- 👥 **4,431 unique customers**, with a strong **46% repeat purchase rate**  
+- 📦 **Top product**: *Running Shoes*, generating **$1.5M+ in revenue**  
+- 🕒 Peak sales occur between **11 AM – 4 PM**, showing midday engagement  
+- 📅 Highest monthly sales: **$683K** in **Month 24**, indicating seasonal trends  
+- 🗺️ Top sales cities: *Washington, Houston, New York City*  
+- 🌎 High-revenue states: *Texas, California, Florida*  
+- 👕 Leading product categories: *Clothing and Electronics*  
+- 💳 Most-used payment method: *Shopify Payments (58%)*, followed by PayPal and Gift Cards  
 
 ---
 
 ## 🧠 Conclusion
 
-This Power BI dashboard is a valuable decision-support tool for executives, analysts, and marketing teams. It enables:
+This Power BI dashboard is a powerful tool for business stakeholders. It enables:
 
-- 📊 Making informed, data-driven sales and marketing strategies  
-- 🎯 Improving customer targeting based on region, product preferences, and behavior  
-- 💳 Optimizing payment gateway offerings to align with customer usage trends
+- 📊 Data-driven sales and marketing strategies  
+- 🎯 Better customer targeting based on region and product behavior  
+- 💳 Optimization of payment methods aligned with customer preferences  
+
+> 📌 **Note**: The dataset used is for analysis and demonstration purposes only.
 
 ---
+
 ## 🔗 Live Dashboard
 
-👉 [View Shopify Sales Dashboard](https://github.com/Yaqub-123/shopify-store-sales--dashboard/blob/main/Shopify_Store_Dashboard.png)  
-
-
-> 📌 **Note**: The dataset used is intended solely for analysis and demonstration purposes.
-
+👉 [View Shopify Sales Dashboard](https://github.com/Yaqub-123/shopify-store-sales--dashboard/blob/main/Shopify_Sales_Dashboard.pbix)  
 
